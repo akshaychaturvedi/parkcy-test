@@ -1,7 +1,7 @@
 /*!
 
 =========================================================
-* Paper Kit React - v1.3.0
+* Paper Kit React - v1.3.0 test
 =========================================================
 
 * Product Page: https://www.creative-tim.com/product/paper-kit-react
